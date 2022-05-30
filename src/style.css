@@ -1,0 +1,21 @@
+body{
+    background-color: #F8E8A6;
+    display: block;
+    margin: 8px;
+}
+h1, p, .nav-bar{
+    text-align: center;
+}
+p{
+    margin: 16px;
+}
+.nav-bar a{
+    color: green;
+    margin: 0 10px;
+}
+.photo-holder {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
